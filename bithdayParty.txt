@@ -1,0 +1,13 @@
+git branch
+git branch -D moma
+git branch -D whitney
+git branch unordered_list
+git add index.html
+git commit
+git checkout master
+git merge unordered_list
+git branch big-heading
+git checkout big-heading
+git add index.html
+git commit
+git checkout master
